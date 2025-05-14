@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206878021007",
+    "project_id": "madbyhafizch",
+    "storage_bucket": "madbyhafizch.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206878021007:android:f3bf40184a91c8e2a5e7fa",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLr4DBfHsTopWY6RsjLkfE5DAC9WrrfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
